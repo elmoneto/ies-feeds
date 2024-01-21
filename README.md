@@ -2,7 +2,7 @@
 |-|-|-|-|-|
 |FURG|Notícias FURG|https://www.furg.br/comunicacao/noticias?format=feed&amp;type=rss|S|2024-01-20|
 |UEL|O Perobal|https://operobal.uel.br/feed/|S|2024-01-20|
-|UEM|Assessoria de Comunicação Social|https://noticias.uem.br/index.php?option=com_content&amp;view=featured&amp;format=feed&amp;type=rss&amp;|S|2024-01-20|
+|UEM|Assessoria de Comunicação Social|https://noticias.uem.br/index.php?option=com_content&amp;view=featured&amp;format=feed&amp;type=rss|S|2024-01-20|
 |UEMG|Notícias UEMG|https://uemg.br/noticias-uemg?format=feed&type=rss|S|2024-01-20|
 |UENF|UENF|https://uenf.br/portal/feed/|S|2024-01-20|
 |UEPG|Universidade Estadual de Ponta Grossa|https://www.uepg.br/feed/|S|2024-01-20|
