@@ -1,9 +1,9 @@
 <opml version="2.0">
 	<body>
 		<outline text="IES Feeds" title="IES Feeds">
-				<outline title='Notícias FURG' xmlUrl='https://www.furg.br/comunicacao/noticias?format=feed&amp;amp;type=rss' />
+				<outline title='Notícias FURG' xmlUrl='https://www.furg.br/comunicacao/noticias?format=feed&amp;type=rss' />
 				<outline title='O Perobal' xmlUrl='https://operobal.uel.br/feed/' />
-				<outline title='Assessoria de Comunicação Social' xmlUrl='https://noticias.uem.br/index.php?option=com_content&amp;amp;view=featured&amp;amp;format=feed&amp;amp;type=rss&amp;amp;' />
+				<outline title='Assessoria de Comunicação Social' xmlUrl='https://noticias.uem.br/index.php?option=com_content&amp;view=featured&amp;format=feed&amp;type=rss' />
 				<outline title='Universidade Estadual de Ponta Grossa' xmlUrl='https://www.uepg.br/feed/' />
 				<outline title='Coordenação de Comunicação Social' xmlUrl='https://ccs2.ufpel.edu.br/wp/feed/' />
 				<outline title='Universidade Federal do Paraná' xmlUrl='https://ufpr.br/feed/' />

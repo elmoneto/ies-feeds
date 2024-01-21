@@ -1,16 +1,16 @@
 <opml version="2.0">
 	<body>
 		<outline text="IES Feeds" title="IES Feeds">
-				<outline title='Notícias FURG' xmlUrl='https://www.furg.br/comunicacao/noticias?format=feed&amp;amp;type=rss' />
+				<outline title='Notícias FURG' xmlUrl='https://www.furg.br/comunicacao/noticias?format=feed&amp;type=rss' />
 				<outline title='O Perobal' xmlUrl='https://operobal.uel.br/feed/' />
-				<outline title='Assessoria de Comunicação Social' xmlUrl='https://noticias.uem.br/index.php?option=com_content&amp;amp;view=featured&amp;amp;format=feed&amp;amp;type=rss&amp;amp;' />
+				<outline title='Assessoria de Comunicação Social' xmlUrl='https://noticias.uem.br/index.php?option=com_content&amp;view=featured&amp;format=feed&amp;type=rss' />
 				<outline title='Notícias UEMG' xmlUrl='https://uemg.br/noticias-uemg?format=feed&amp;type=rss' />
 				<outline title='UENF' xmlUrl='https://uenf.br/portal/feed/' />
 				<outline title='Universidade Estadual de Ponta Grossa' xmlUrl='https://www.uepg.br/feed/' />
 				<outline title='Notícias UERJ' xmlUrl='https://www.uerj.br/feed/?post_type=noticia' />
 				<outline title='Universidade Federal do Acre' xmlUrl='\thttps://www.ufac.br/site/RSS' />
 				<outline title='Notícias' xmlUrl='https://ufal.br/noticias/RSS' />
-				<outline title='Portal da UFC - Notícias de 2024' xmlUrl='https://www.ufc.br/noticias/noticias-de-2023?format=feed&amp;amp;type=rss' />
+				<outline title='Portal da UFC - Notícias de 2024' xmlUrl='https://www.ufc.br/noticias/noticias-de-2023?format=feed&amp;type=rss' />
 				<outline title='Universidade Federal do Cariri' xmlUrl='https://www.ufca.edu.br/feed/' />
 				<outline title='Universidade Federal de Goias - Regional Catalão' xmlUrl='https://catalao.ufg.br/news' />
 				<outline title='Comunicação' xmlUrl='https://assecom.ufersa.edu.br/feed/' />
@@ -26,11 +26,11 @@
 				<outline title='UFNT' xmlUrl='https://ufnt.edu.br/feed/' />
 				<outline title='UFPB - RSS Feed' xmlUrl='https://www.ufpb.br/ufpb/site-feed/RSS' />
 				<outline title='Coordenação de Comunicação Social' xmlUrl='https://ccs2.ufpel.edu.br/wp/feed/' />
-				<outline title='Últimas Notícias - UFPI' xmlUrl='https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;amp;type=rss' />
+				<outline title='Últimas Notícias - UFPI' xmlUrl='https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;type=rss' />
 				<outline title='Universidade Federal do Paraná' xmlUrl='https://ufpr.br/feed/' />
 				<outline title='UFRB - Universidade Federal do Recôncavo Baiano' xmlUrl='http://feeds.feedburner.com/ufr' />
 				<outline title='UFRGS Notícias' xmlUrl='http://www.ufrgs.br/ufrgs/noticias/noticias/RSS' />
-				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;amp;type=rss' />
+				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss' />
 				<outline title='Notícias da UFSC' xmlUrl='https://noticias.ufsc.br/feed/' />
 				<outline title='Notícias UFSM' xmlUrl='https://www.ufsm.br/busca?area=post&amp;orderby=date&amp;q=&amp;sites%5B0%5D=1&amp;rss=true' />
 				<outline title='Ultimas Notícias' xmlUrl='https://www.uftm.edu.br/modulo-noticias?format=feed&amp;type=rss' />
@@ -42,7 +42,7 @@
 				<outline title='Universidade Federal de Rondônica' xmlUrl='https://www.unir.br/feed' />
 				<outline title='Unirio - feed RSS' xmlUrl='https://www.unirio.br/site-feed/RSS' />
 				<outline title='Jornal da USP' xmlUrl='https://jornal.usp.br/feed/' />
-				<outline title='UnB Notícias - Útimas' xmlUrl='https://noticias.unb.br/?format=feed&amp;amp;type=rss' />
+				<outline title='UnB Notícias - Útimas' xmlUrl='https://noticias.unb.br/?format=feed&amp;type=rss' />
 				<outline title='Universidade Federal de Alfenas' xmlUrl='https://www.unifal-mg.edu.br/portal/feed/' />
 				<outline title='Notícias' xmlUrl='https://unipampa.edu.br/portal/feed-noticias' />
 		</outline>
