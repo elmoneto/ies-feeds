@@ -1,0 +1,15 @@
+<opml version="2.0">
+	<body>
+		<outline text="IES Feeds" title="IES Feeds">
+				<outline title='Notícias' xmlUrl='https://ufal.br/noticias/RSS' />
+				<outline title='Portal da UFC - Notícias de 2024' xmlUrl='https://www.ufc.br/noticias/noticias-de-2023?format=feed&amp;amp;type=rss' />
+				<outline title='Universidade Federal do Cariri' xmlUrl='https://www.ufca.edu.br/feed/' />
+				<outline title='Comunicação' xmlUrl='https://assecom.ufersa.edu.br/feed/' />
+				<outline title='Todas as Notícias' xmlUrl='https://portalpadrao.ufma.br/site/todas-as-noticias/atom.xml' />
+				<outline title='UFPB - RSS Feed' xmlUrl='https://www.ufpb.br/ufpb/site-feed/RSS' />
+				<outline title='Últimas Notícias - UFPI' xmlUrl='https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;amp;type=rss' />
+				<outline title='UFRB - Universidade Federal do Recôncavo Baiano' xmlUrl='http://feeds.feedburner.com/ufr' />
+				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;amp;type=rss' />
+		</outline>
+	</body>
+</opml>

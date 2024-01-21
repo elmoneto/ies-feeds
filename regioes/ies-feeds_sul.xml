@@ -1,0 +1,19 @@
+<opml version="2.0">
+	<body>
+		<outline text="IES Feeds" title="IES Feeds">
+				<outline title='Notícias FURG' xmlUrl='https://www.furg.br/comunicacao/noticias?format=feed&amp;amp;type=rss' />
+				<outline title='O Perobal' xmlUrl='https://operobal.uel.br/feed/' />
+				<outline title='Assessoria de Comunicação Social' xmlUrl='https://noticias.uem.br/index.php?option=com_content&amp;amp;view=featured&amp;amp;format=feed&amp;amp;type=rss&amp;amp;' />
+				<outline title='Universidade Estadual de Ponta Grossa' xmlUrl='https://www.uepg.br/feed/' />
+				<outline title='Coordenação de Comunicação Social' xmlUrl='https://ccs2.ufpel.edu.br/wp/feed/' />
+				<outline title='Universidade Federal do Paraná' xmlUrl='https://ufpr.br/feed/' />
+				<outline title='UFRGS Notícias' xmlUrl='http://www.ufrgs.br/ufrgs/noticias/noticias/RSS' />
+				<outline title='Notícias da UFSC' xmlUrl='https://noticias.ufsc.br/feed/' />
+				<outline title='Notícias UFSM' xmlUrl='https://www.ufsm.br/busca?area=post&amp;orderby=date&amp;q=&amp;sites%5B0%5D=1&amp;rss=true' />
+				<outline title='Lista Notícia Geral' xmlUrl='https://www.unespar.edu.br/noticias/lista-noticia-geral/RSS' />
+				<outline title='Central de Notícias' xmlUrl='https://www3.unicentro.br/noticias' />
+				<outline title='Notícias - RSS Feed' xmlUrl='https://portal.unila.edu.br/site-feed/RSS?set_language=pt-br' />
+				<outline title='Notícias' xmlUrl='https://unipampa.edu.br/portal/feed-noticias' />
+		</outline>
+	</body>
+</opml>

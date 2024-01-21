@@ -1,0 +1,11 @@
+<opml version="2.0">
+	<body>
+		<outline text="IES Feeds" title="IES Feeds">
+				<outline title='Universidade Federal de Goias - Regional Catalão' xmlUrl='https://catalao.ufg.br/news' />
+				<outline title='Universidade Federal de Goiás' xmlUrl='https://ufg.br/feed' />
+				<outline title='Portal UFJ - Universidade Federal do Jataí' xmlUrl='https://portalufj.jatai.ufg.br/news' />
+				<outline title='UFMS' xmlUrl='https://www.ufms.br' />
+				<outline title='UnB Notícias - Útimas' xmlUrl='https://noticias.unb.br/?format=feed&amp;amp;type=rss' />
+		</outline>
+	</body>
+</opml>
