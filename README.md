@@ -38,7 +38,7 @@
 |UNESPAR|Lista Notícia Geral|https://www.unespar.edu.br/noticias/lista-noticia-geral/RSS|S|2024-01-20|
 |UNICENTRO|Central de Notícias|https://www3.unicentro.br/noticias|S|2024-01-20|
 |UNILA|Notícias - RSS Feed|https://portal.unila.edu.br/site-feed/RSS?set_language=pt-br|S|2024-01-20|
-|UNIR|Universidade Federal de Rondônica|https://www.unir.br/feed|S|2024-01-20|
+|UNIR|Universidade Federal de Rondônia|https://www.unir.br/feed|S|2024-01-20|
 |UNIRIO|Unirio - feed RSS|https://www.unirio.br/site-feed/RSS|S|2024-01-20|
 |USP|Jornal da USP|https://jornal.usp.br/feed/|S|2024-01-20|
 |UnB|UnB Notícias - Útimas|https://noticias.unb.br/?format=feed&amp;type=rss|S|2024-01-20|
