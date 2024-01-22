@@ -26,11 +26,11 @@
 |UFPB|UFPB - RSS Feed|https://www.ufpb.br/ufpb/site-feed/RSS|S|2024-01-20|
 |UFPEL|Coordenação de Comunicação Social|https://ccs2.ufpel.edu.br/wp/feed/|S|2024-01-20|
 |UFPI|Últimas Notícias - UFPI|https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;type=rss|S|2024-01-20|
-|UFPR|Universidade Federal do Paraná|https://ufpr.br/feed/|S|2023-01-20|
+|UFPR|Universidade Federal do Paraná|https://ufpr.br/feed/|S|2024-01-20|
 |UFRB|UFRB - Universidade Federal do Recôncavo Baiano|http://feeds.feedburner.com/ufrb|S|2024-01-20|
 |UFRGS|UFRGS Notícias|http://www.ufrgs.br/ufrgs/noticias/noticias/RSS|S|2024-01-20|
 |UFSB|Últimas Notícias|https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss|S|2024-01-20|
-|UFSC|Notícias da UFSC|https://noticias.ufsc.br/feed/|S|2023-01-20|
+|UFSC|Notícias da UFSC|https://noticias.ufsc.br/feed/|S|2024-01-20|
 |UFSM|Notícias UFSM|https://www.ufsm.br/busca?area=post&orderby=date&q=&sites%5B0%5D=1&rss=true|S|2024-01-20|
 |UFTM|Ultimas Notícias|https://www.uftm.edu.br/modulo-noticias?format=feed&type=rss|S|2024-01-20|
 |UFVJM|Últimas Notícias|https://portal.ufvjm.edu.br/noticias/ultimas-noticias/RSS|S|2024-01-20|
