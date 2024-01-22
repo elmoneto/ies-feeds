@@ -3,7 +3,7 @@
 		<outline text="IES Feeds" title="IES Feeds">
 				<outline title='Universidade Federal do Acre' xmlUrl='\thttps://www.ufac.br/site/RSS' />
 				<outline title='UFNT' xmlUrl='https://ufnt.edu.br/feed/' />
-				<outline title='Universidade Federal de Rondônica' xmlUrl='https://www.unir.br/feed' />
+				<outline title='Universidade Federal de Rondônia' xmlUrl='https://www.unir.br/feed' />
 		</outline>
 	</body>
 </opml>
