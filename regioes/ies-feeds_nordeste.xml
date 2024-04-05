@@ -1,15 +1,19 @@
 <opml version="2.0">
 	<body>
 		<outline text="IES Feeds" title="IES Feeds">
+				<outline title='Universidade Estadual de Feira de Santana - UEFS - Governo da Bahia' xmlUrl='https://www.uefs.br/backend.php' />
 				<outline title='Notícias' xmlUrl='https://ufal.br/noticias/RSS' />
-				<outline title='Portal da UFC - Notícias de 2024' xmlUrl='https://www.ufc.br/noticias/noticias-de-2023?format=feed&amp;amp;type=rss' />
+				<outline title='Portal da UFC - Notícias de 2024' xmlUrl='https://www.ufc.br/noticias/noticias-de-2023?format=feed&amp;type=rss' />
 				<outline title='Universidade Federal do Cariri' xmlUrl='https://www.ufca.edu.br/feed/' />
 				<outline title='Comunicação' xmlUrl='https://assecom.ufersa.edu.br/feed/' />
 				<outline title='Todas as Notícias' xmlUrl='https://portalpadrao.ufma.br/site/todas-as-noticias/atom.xml' />
+				<outline title='Universidade Federal do Oeste da Bahia' xmlUrl='https://ufob.edu.br/RSS' />
 				<outline title='UFPB - RSS Feed' xmlUrl='https://www.ufpb.br/ufpb/site-feed/RSS' />
-				<outline title='Últimas Notícias - UFPI' xmlUrl='https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;amp;type=rss' />
+				<outline title='Últimas Notícias - UFPI' xmlUrl='https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;type=rss' />
 				<outline title='UFRB - Universidade Federal do Recôncavo Baiano' xmlUrl='http://feeds.feedburner.com/ufrb' />
-				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;amp;type=rss' />
+				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss' />
+				<outline title='PORTAL UNEB' xmlUrl='https://portal.uneb.br/feed/' />
+				<outline title='UNIVASF Universidade Federal do Vale do São Francisco' xmlUrl='https://portais.univasf.edu.br/RSS' />
 		</outline>
 	</body>
 </opml>
