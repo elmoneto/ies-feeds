@@ -39,6 +39,7 @@
 |UNEB|PORTAL UNEB|https://portal.uneb.br/feed/|S|2024-04-04|
 |UNESP|: :UNESP :|https://www2.unesp.br/Modulos/Noticias/rss.php|S|2024-04-04|
 |UNESPAR|Lista Notícia Geral|https://www.unespar.edu.br/noticias/lista-noticia-geral/RSS|S|2024-04-04|
+|Unicamp|Jornal da Unicamp|https://www.jornal.unicamp.br/feed/|S|2024-04-05|
 |UNICENTRO|Central de Notícias|https://www3.unicentro.br/noticias|S|2024-04-04|
 |UNILA|Notícias - RSS Feed|https://portal.unila.edu.br/site-feed/RSS?set_language=pt-br|S|2024-04-04|
 |UNIR|Universidade Federal de Rondônia|https://www.unir.br/feed|S|2024-04-04|
