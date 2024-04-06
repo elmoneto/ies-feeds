@@ -12,6 +12,7 @@
 				<outline title='Ultimas Notícias' xmlUrl='https://www.uftm.edu.br/modulo-noticias?format=feed&amp;type=rss' />
 				<outline title='Últimas Notícias' xmlUrl='https://portal.ufvjm.edu.br/noticias/ultimas-noticias/RSS' />
 				<outline title=': :UNESP :' xmlUrl='https://www2.unesp.br/Modulos/Noticias/rss.php' />
+				<outline title='Jornal da Unicamp' xmlUrl='https://www.jornal.unicamp.br/feed/' />
 				<outline title='Unirio - feed RSS' xmlUrl='https://www.unirio.br/site-feed/RSS' />
 				<outline title='Jornal da USP' xmlUrl='https://jornal.usp.br/feed/' />
 				<outline title='Universidade Federal de Alfenas' xmlUrl='https://www.unifal-mg.edu.br/portal/feed/' />
