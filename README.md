@@ -31,6 +31,7 @@
 |UFPR|Universidade Federal do Paraná|https://ufpr.br/feed/|S|2024-04-04|
 |UFRB|UFRB - Universidade Federal do Recôncavo Baiano|http://feeds.feedburner.com/ufrb|S|2024-04-04|
 |UFRGS|UFRGS Notícias|http://www.ufrgs.br/ufrgs/noticias/noticias/RSS|S|2024-04-04|
+|UFRRJ|UFRRJ|https://portal.ufrrj.br/feed|N|2024-04-15|
 |UFSB|Últimas Notícias|https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss|S|2024-04-04|
 |UFSC|Notícias da UFSC|https://noticias.ufsc.br/feed/|S|2024-04-04|
 |UFSM|Notícias UFSM|https://www.ufsm.br/busca?area=post&orderby=date&q=&sites%5B0%5D=1&rss=true|S|2024-04-04|
@@ -39,13 +40,14 @@
 |UNEB|PORTAL UNEB|https://portal.uneb.br/feed/|S|2024-04-04|
 |UNESP|: :UNESP :|https://www2.unesp.br/Modulos/Noticias/rss.php|S|2024-04-04|
 |UNESPAR|Lista Notícia Geral|https://www.unespar.edu.br/noticias/lista-noticia-geral/RSS|S|2024-04-04|
-|Unicamp|Jornal da Unicamp|https://www.jornal.unicamp.br/feed/|S|2024-04-05|
 |UNICENTRO|Central de Notícias|https://www3.unicentro.br/noticias|S|2024-04-04|
 |UNILA|Notícias - RSS Feed|https://portal.unila.edu.br/site-feed/RSS?set_language=pt-br|S|2024-04-04|
+|UNILAB|Universidade de Integração Internacional da Lusofonia Afro-Brasileira|https://unilab.edu.br/feed/|S|2024-04-04|
 |UNIR|Universidade Federal de Rondônia|https://www.unir.br/feed|S|2024-04-04|
 |UNIRIO|Unirio - feed RSS|https://www.unirio.br/site-feed/RSS|S|2024-04-04|
 |UNIVASF|UNIVASF Universidade Federal do Vale do São Francisco|https://portais.univasf.edu.br/RSS|S|2024-04-04|
 |USP|Jornal da USP|https://jornal.usp.br/feed/|S|2024-04-04|
 |UnB|UnB Notícias - Últimas|https://noticias.unb.br/?format=feed&amp;type=rss|S|2024-04-04|
+|Unicamp|Jornal da Unicamp|https://www.jornal.unicamp.br/feed/|S|2024-04-05|
 |Unifal|Universidade Federal de Alfenas|https://www.unifal-mg.edu.br/portal/feed/|S|2024-04-04|
 |Unipampa|Notícias|https://unipampa.edu.br/portal/feed-noticias|S|2024-04-04|
