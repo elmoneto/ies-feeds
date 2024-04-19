@@ -30,7 +30,7 @@
 				<outline title='Notícias UFLA' xmlUrl='https://ufla.br/noticias' />
 				<outline title='Notícias UFSM' xmlUrl='https://www.ufsm.br/busca?area=post&amp;orderby=date&amp;q=&amp;sites%5B0%5D=1&amp;rss=true' />
 				<outline title='Notícias da UFSC' xmlUrl='https://noticias.ufsc.br/feed/' />
-				<outline title='Notícias — Universidade Federal do Delta do Parnaíba UFDPar' xmlUrl='	https://ufdpar.edu.br/ufdpar/noticias' />
+				<outline title='Notícias — Universidade Federal do Delta do Parnaíba UFDPar' xmlUrl='https://ufdpar.edu.br/ufdpar/noticias' />
 				<outline title='O Perobal' xmlUrl='https://operobal.uel.br/feed/' />
 				<outline title='PORTAL UNEB' xmlUrl='https://portal.uneb.br/feed/' />
 				<outline title='Politécnico' xmlUrl='https://www.ufsm.br/unidades-universitarias/politecnico/feed' />
@@ -55,10 +55,9 @@
 				<outline title='UFRGS Notícias' xmlUrl='http://www.ufrgs.br/ufrgs/noticias/noticias/RSS' />
 				<outline title='UNIR - Universidade Federal de Rondônia' xmlUrl='https://www.unir.br/feed' />
 				<outline title='UNIVASF Universidade Federal do Vale do São Francisco' xmlUrl='https://portais.univasf.edu.br/RSS' />
-				<outline title='UNIVERSIDADE ESTADUAL DO CEARÁ' xmlUrl='	https://www.uece.br/feed/' />
+				<outline title='UNIVERSIDADE ESTADUAL DO CEARÁ' xmlUrl='https://www.uece.br/feed/' />
 				<outline title='UPE' xmlUrl='https://www.upe.br/noticias/' />
 				<outline title='Ufes' xmlUrl='http://www.ufes.br/rss.xml' />
-				<outline title='Ultimas Notícias' xmlUrl='https://www.uftm.edu.br/modulo-noticias?format=feed&amp;type=rss' />
 				<outline title='UnB Notícias - Últimas' xmlUrl='https://noticias.unb.br/?format=feed&amp;type=rss' />
 				<outline title='Unirio - feed RSS' xmlUrl='https://www.unirio.br/site-feed/RSS' />
 				<outline title='Universidade Estadual de Feira de Santana - UEFS - Governo da Bahia' xmlUrl='https://www.uefs.br/backend.php' />
@@ -76,6 +75,7 @@
 				<outline title='Universidade de Integração Internacional da Lusofonia Afro-Brasileira' xmlUrl='https://unilab.edu.br/feed/' />
 				<outline title='uffs' xmlUrl='http://www.uffs.edu.br/RSS' />
 				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss' />
+				<outline title='Últimas Notícias' xmlUrl='https://www.uftm.edu.br/modulo-noticias?format=feed&amp;type=rss' />
 				<outline title='Últimas Notícias' xmlUrl='https://portal.ufvjm.edu.br/noticias/ultimas-noticias/RSS' />
 				<outline title='Últimas Notícias' xmlUrl='http://www.ifsul.edu.br/ultimas-noticias?format=feed&amp;type=rss' />
 				<outline title='Últimas Notícias' xmlUrl='https://ifpa.edu.br/ultimas-noticias?format=feed&amp;type=rss' />

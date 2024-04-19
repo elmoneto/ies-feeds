@@ -22,7 +22,7 @@
 |IFSULDEMINAS|Últimas notícias - IFSULDEMINAS|https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas?format=feed&type=rss|S|2024-04-18|
 |IFSul|Últimas Notícias|http://www.ifsul.edu.br/ultimas-noticias?format=feed&type=rss|S|2024-04-18|
 |POLI/UFSM|Politécnico|https://www.ufsm.br/unidades-universitarias/politecnico/feed|S|2024-04-18|
-|UECE|UNIVERSIDADE ESTADUAL DO CEARÁ|	https://www.uece.br/feed/|S|2024-04-18|
+|UECE|UNIVERSIDADE ESTADUAL DO CEARÁ|https://www.uece.br/feed/|S|2024-04-18|
 |UEFS|Universidade Estadual de Feira de Santana - UEFS - Governo da Bahia|https://www.uefs.br/backend.php|S|2024-04-04|
 |UEL|O Perobal|https://operobal.uel.br/feed/|S|2024-04-04|
 |UEM|Assessoria de Comunicação Social|https://noticias.uem.br/index.php?option=com_content&amp;view=featured&amp;format=feed&amp;type=rss|S|2024-04-04|
@@ -40,7 +40,7 @@
 |UFCA|Universidade Federal do Cariri|https://www.ufca.edu.br/feed/|S|2024-04-04|
 |UFCG|UFCG|https://portal.ufcg.edu.br/ultimas-noticias.feed?type=rss|N|2024-04-18|
 |UFCat|Universidade Federal de Goiás - Regional Catalão|https://catalao.ufg.br/news|S|2024-04-04|
-|UFDPar|Notícias — Universidade Federal do Delta do Parnaíba UFDPar|	https://ufdpar.edu.br/ufdpar/noticias|S|2024-04-18|
+|UFDPar|Notícias — Universidade Federal do Delta do Parnaíba UFDPar|https://ufdpar.edu.br/ufdpar/noticias|S|2024-04-18|
 |UFERSA|Comunicação|https://assecom.ufersa.edu.br/feed/|S|2024-04-04|
 |UFES|Ufes|http://www.ufes.br/rss.xml|S|2024-04-04|
 |UFF|Latest News|https://www.uff.br/?q=newsOLD.xml|N|2024-04-04|
@@ -67,7 +67,7 @@
 |UFSB|Últimas Notícias|https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss|S|2024-04-04|
 |UFSC|Notícias da UFSC|https://noticias.ufsc.br/feed/|S|2024-04-04|
 |UFSM|Notícias UFSM|https://www.ufsm.br/busca?area=post&orderby=date&q=&sites%5B0%5D=1&rss=true|S|2024-04-04|
-|UFTM|Ultimas Notícias|https://www.uftm.edu.br/modulo-noticias?format=feed&type=rss|S|2024-04-04|
+|UFTM|Últimas Notícias|https://www.uftm.edu.br/modulo-noticias?format=feed&type=rss|S|2024-04-04|
 |UFVJM|Últimas Notícias|https://portal.ufvjm.edu.br/noticias/ultimas-noticias/RSS|S|2024-04-04|
 |UNEB|PORTAL UNEB|https://portal.uneb.br/feed/|S|2024-04-04|
 |UNESP|: :UNESP :|https://www2.unesp.br/Modulos/Noticias/rss.php|S|2024-04-04|
