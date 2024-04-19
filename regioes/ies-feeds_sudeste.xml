@@ -4,10 +4,14 @@
 				<outline title=': :UNESP :' xmlUrl='https://www2.unesp.br/Modulos/Noticias/rss.php' />
 				<outline title='Jornal da USP' xmlUrl='https://jornal.usp.br/feed/' />
 				<outline title='Jornal da Unicamp' xmlUrl='https://www.jornal.unicamp.br/feed/' />
+				<outline title='Notícias' xmlUrl='https://www.ifes.edu.br/noticias?format=feed&amp;type=rss' />
+				<outline title='Notícias' xmlUrl='https://www.cefet-rj.br/index.php/noticias?format=feed&amp;type=rss' />
 				<outline title='Notícias UEMG' xmlUrl='https://uemg.br/noticias-uemg?format=feed&amp;type=rss' />
 				<outline title='Notícias UERJ' xmlUrl='https://www.uerj.br/feed/?post_type=noticia' />
 				<outline title='Notícias UFJF' xmlUrl='https://www2.ufjf.br/noticias/feed/' />
 				<outline title='Notícias UFLA' xmlUrl='https://ufla.br/noticias' />
+				<outline title='Portal IFNMG - Mais Noticias Portal' xmlUrl='https://www.ifnmg.edu.br/mais-noticias-portal/671-portal-noticias-2024?format=feed&amp;type=rss' />
+				<outline title='Todas as Notícias - IF SUDESTE MG' xmlUrl='https://www.ifsudestemg.edu.br/noticias/reitoria' />
 				<outline title='UENF' xmlUrl='https://uenf.br/portal/feed/' />
 				<outline title='UFMG - RSS' xmlUrl='https://ufmg.br/rss/noticias' />
 				<outline title='Ufes' xmlUrl='http://www.ufes.br/rss.xml' />
@@ -15,6 +19,10 @@
 				<outline title='Unirio - feed RSS' xmlUrl='https://www.unirio.br/site-feed/RSS' />
 				<outline title='Universidade Federal de Alfenas' xmlUrl='https://www.unifal-mg.edu.br/portal/feed/' />
 				<outline title='Últimas Notícias' xmlUrl='https://portal.ufvjm.edu.br/noticias/ultimas-noticias/RSS' />
+				<outline title='Últimas Notícias - IFSP - Portal Institucional' xmlUrl='https://www.ifsp.edu.br/ultimas-noticias?format=feed&amp;type=rss' />
+				<outline title='Últimas notícias - IFSULDEMINAS' xmlUrl='https://portal.ifsuldeminas.edu.br/index.php/ultimas-noticias-ifsuldeminas?format=feed&amp;type=rss' />
+				<outline title='Últimas notícias — Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais IFMG' xmlUrl='https://ifmg.edu.br/portal/noticias' />
+				<outline title='Últimas notícias — Portal IFFluminense' xmlUrl='https://portal1.iff.edu.br/noticias/ultimas-noticias' />
 		</outline>
 	</body>
 </opml>

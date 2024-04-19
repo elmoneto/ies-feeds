@@ -2,19 +2,31 @@
 	<body>
 		<outline text="IES Feeds - NE" title="IES Feeds - NE">
 				<outline title='Comunicação' xmlUrl='https://assecom.ufersa.edu.br/feed/' />
+				<outline title='Escola Técnica de Artes' xmlUrl='https://eta.ufal.br/RSS' />
 				<outline title='Notícias' xmlUrl='https://ufal.br/noticias/RSS' />
+				<outline title='Notícias Archives - Universidade Estadual da Região Tocantina do Maranhão - UEMASUL' xmlUrl='https://www.uemasul.edu.br/portal/secao/noticias/feed/' />
+				<outline title='Notícias — Universidade Federal do Delta do Parnaíba UFDPar' xmlUrl='	https://ufdpar.edu.br/ufdpar/noticias' />
 				<outline title='PORTAL UNEB' xmlUrl='https://portal.uneb.br/feed/' />
 				<outline title='Portal da UFC - Notícias de 2024' xmlUrl='https://www.ufc.br/noticias/noticias-de-2023?format=feed&amp;type=rss' />
+				<outline title='Portal de Notícias - IFS - Instituto Federal de Educação, Ciência e Tecnologia de Sergipe' xmlUrl='http://www.ifs.edu.br/portal-noticias.feed?type=rss' />
+				<outline title='RSS UFS' xmlUrl='https://www.ufs.br/feed' />
 				<outline title='Todas as Notícias' xmlUrl='https://portalpadrao.ufma.br/site/todas-as-noticias/atom.xml' />
+				<outline title='Todas as Notícias – IFPE – Instituto Federal de Pernambuco' xmlUrl='https://portal.ifpe.edu.br/noticias/' />
+				<outline title='UESPI' xmlUrl='https://uespi.br/feed/' />
 				<outline title='UFPB - RSS Feed' xmlUrl='https://www.ufpb.br/ufpb/site-feed/RSS' />
 				<outline title='UFRB - Universidade Federal do Recôncavo Baiano' xmlUrl='http://feeds.feedburner.com/ufrb' />
 				<outline title='UNIVASF Universidade Federal do Vale do São Francisco' xmlUrl='https://portais.univasf.edu.br/RSS' />
+				<outline title='UNIVERSIDADE ESTADUAL DO CEARÁ' xmlUrl='	https://www.uece.br/feed/' />
+				<outline title='UPE' xmlUrl='https://www.upe.br/noticias/' />
 				<outline title='Universidade Estadual de Feira de Santana - UEFS - Governo da Bahia' xmlUrl='https://www.uefs.br/backend.php' />
+				<outline title='Universidade Estadual do Vale do Acaraú' xmlUrl='https://www.uva.ce.gov.br/feed/' />
 				<outline title='Universidade Federal do Cariri' xmlUrl='https://www.ufca.edu.br/feed/' />
 				<outline title='Universidade Federal do Oeste da Bahia' xmlUrl='https://ufob.edu.br/RSS' />
+				<outline title='Universidade Regional do Cariri – URCA' xmlUrl='http://www.urca.br/portal2/feed/' />
 				<outline title='Universidade de Integração Internacional da Lusofonia Afro-Brasileira' xmlUrl='https://unilab.edu.br/feed/' />
 				<outline title='Últimas Notícias' xmlUrl='https://ufsb.edu.br/ultimas-noticias?format=feed&amp;type=rss' />
 				<outline title='Últimas Notícias - UFPI' xmlUrl='https://ufpi.br/ultimas-noticias-ufpi?format=feed&amp;type=rss' />
+				<outline title='Últimas Notícias — Instituto Federal de Alagoas' xmlUrl='https://www2.ifal.edu.br/ultimas-noticias' />
 		</outline>
 	</body>
 </opml>
