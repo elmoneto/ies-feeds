@@ -3,7 +3,7 @@ import sys
 
 conn = sqlite3.connect('../data/ies-feeds.db')
 
-regioes = {'NE': '_nordeste', 'N': '_norte', 'CO': '_centro-oeste', 'SE': '_sudeste', 'S': '_sul'}
+regioes = {'NE': 'nordeste', 'N': 'norte', 'CO': 'centro-oeste', 'SE': 'sudeste', 'S': 'sul'}
 
 condicao = ''
 sufixo_arquivo = ''
@@ -14,7 +14,7 @@ if(len(sys.argv) > 1):
     regiao = sys.argv[1].upper()
     if(regiao in regioes.keys()):
         condicao = "AND ufs.regiao = '" + regiao + "'\n    "
-        sufixo_arquivo = regioes[regiao]
+        sufixo_arquivo = '_' + regioes[regiao]
         pasta += 'regioes/'
         sufixo_grupo += ' - ' + regiao
     else:
