@@ -13,6 +13,7 @@
 				<outline title='Todas as Notícias' xmlUrl='https://portalpadrao.ufma.br/site/todas-as-noticias/atom.xml' />
 				<outline title='Todas as Notícias – IFPE – Instituto Federal de Pernambuco' xmlUrl='https://portal.ifpe.edu.br/noticias/' />
 				<outline title='UESPI' xmlUrl='https://uespi.br/feed/' />
+				<outline title='UFCG' xmlUrl='https://portal.ufcg.edu.br/ultimas-noticias.feed?type=rss' />
 				<outline title='UFPB - RSS Feed' xmlUrl='https://www.ufpb.br/ufpb/site-feed/RSS' />
 				<outline title='UFRB - Universidade Federal do Recôncavo Baiano' xmlUrl='http://feeds.feedburner.com/ufrb' />
 				<outline title='UNIVASF Universidade Federal do Vale do São Francisco' xmlUrl='https://portais.univasf.edu.br/RSS' />

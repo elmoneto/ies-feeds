@@ -30,11 +30,10 @@ query = """
     FROM feeds 
     JOIN ies_ufs on ies_ufs.ies_id = feeds.ies_id 
     JOIN ufs on ufs.id = ies_ufs.uf_id
-    WHERE funcional = 'S'
     """ + condicao + """
     GROUP BY feeds.id
     ORDER BY feeds.titulo"""
-	
+
 #print(query)
 
 for row in cur.execute(query):

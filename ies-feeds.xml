@@ -13,6 +13,7 @@
 				<outline title='Início - Universidade Federal de Rondonópolis - UFR' xmlUrl='https://ufr.edu.br/noticias/feed/' />
 				<outline title='Jornal da USP' xmlUrl='https://jornal.usp.br/feed/' />
 				<outline title='Jornal da Unicamp' xmlUrl='https://www.jornal.unicamp.br/feed/' />
+				<outline title='Latest News' xmlUrl='https://www.uff.br/?q=newsOLD.xml' />
 				<outline title='Lista Notícia Geral' xmlUrl='https://www.unespar.edu.br/noticias/lista-noticia-geral/RSS' />
 				<outline title='Notícias' xmlUrl='https://unipampa.edu.br/portal/feed-noticias' />
 				<outline title='Notícias' xmlUrl='https://ufal.br/noticias/RSS' />
@@ -46,6 +47,7 @@
 				<outline title='UENF' xmlUrl='https://uenf.br/portal/feed/' />
 				<outline title='UERR - Universidade Estadual de Roraima' xmlUrl='https://www.uerr.edu.br/feed/' />
 				<outline title='UESPI' xmlUrl='https://uespi.br/feed/' />
+				<outline title='UFCG' xmlUrl='https://portal.ufcg.edu.br/ultimas-noticias.feed?type=rss' />
 				<outline title='UFMG - RSS' xmlUrl='https://ufmg.br/rss/noticias' />
 				<outline title='UFMS' xmlUrl='https://www.ufms.br' />
 				<outline title='UFNT' xmlUrl='https://ufnt.edu.br/feed/' />
@@ -53,6 +55,7 @@
 				<outline title='UFPB - RSS Feed' xmlUrl='https://www.ufpb.br/ufpb/site-feed/RSS' />
 				<outline title='UFRB - Universidade Federal do Recôncavo Baiano' xmlUrl='http://feeds.feedburner.com/ufrb' />
 				<outline title='UFRGS Notícias' xmlUrl='http://www.ufrgs.br/ufrgs/noticias/noticias/RSS' />
+				<outline title='UFRRJ' xmlUrl='https://portal.ufrrj.br/feed' />
 				<outline title='UNIR - Universidade Federal de Rondônia' xmlUrl='https://www.unir.br/feed' />
 				<outline title='UNIVASF Universidade Federal do Vale do São Francisco' xmlUrl='https://portais.univasf.edu.br/RSS' />
 				<outline title='UNIVERSIDADE ESTADUAL DO CEARÁ' xmlUrl='https://www.uece.br/feed/' />
@@ -66,7 +69,6 @@
 				<outline title='Universidade Federal de Alfenas' xmlUrl='https://www.unifal-mg.edu.br/portal/feed/' />
 				<outline title='Universidade Federal de Goiás' xmlUrl='https://ufg.br/feed' />
 				<outline title='Universidade Federal de Goiás - Regional Catalão' xmlUrl='https://catalao.ufg.br/news' />
-				<outline title='Universidade Federal de Rondônia' xmlUrl='https://www.unir.br/feed' />
 				<outline title='Universidade Federal do Acre' xmlUrl='https://www.ufac.br/site/RSS' />
 				<outline title='Universidade Federal do Cariri' xmlUrl='https://www.ufca.edu.br/feed/' />
 				<outline title='Universidade Federal do Oeste da Bahia' xmlUrl='https://ufob.edu.br/RSS' />

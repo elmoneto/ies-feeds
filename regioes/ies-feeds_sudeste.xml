@@ -4,6 +4,7 @@
 				<outline title=': :UNESP :' xmlUrl='https://www2.unesp.br/Modulos/Noticias/rss.php' />
 				<outline title='Jornal da USP' xmlUrl='https://jornal.usp.br/feed/' />
 				<outline title='Jornal da Unicamp' xmlUrl='https://www.jornal.unicamp.br/feed/' />
+				<outline title='Latest News' xmlUrl='https://www.uff.br/?q=newsOLD.xml' />
 				<outline title='Notícias' xmlUrl='https://www.ifes.edu.br/noticias?format=feed&amp;type=rss' />
 				<outline title='Notícias' xmlUrl='https://www.cefet-rj.br/index.php/noticias?format=feed&amp;type=rss' />
 				<outline title='Notícias UEMG' xmlUrl='https://uemg.br/noticias-uemg?format=feed&amp;type=rss' />
@@ -14,6 +15,7 @@
 				<outline title='Todas as Notícias - IF SUDESTE MG' xmlUrl='https://www.ifsudestemg.edu.br/noticias/reitoria' />
 				<outline title='UENF' xmlUrl='https://uenf.br/portal/feed/' />
 				<outline title='UFMG - RSS' xmlUrl='https://ufmg.br/rss/noticias' />
+				<outline title='UFRRJ' xmlUrl='https://portal.ufrrj.br/feed' />
 				<outline title='Ufes' xmlUrl='http://www.ufes.br/rss.xml' />
 				<outline title='Unirio - feed RSS' xmlUrl='https://www.unirio.br/site-feed/RSS' />
 				<outline title='Universidade Federal de Alfenas' xmlUrl='https://www.unifal-mg.edu.br/portal/feed/' />
