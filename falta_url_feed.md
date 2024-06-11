@@ -130,8 +130,6 @@ UFRPE - Universidade Federal Rural de Pernambuco
 
 UFRR - Universidade Federal de Roraima
 
-UFSC - Universidade Estadual de Santa Catarina
-
 UFSCar - Universidade Federal de São Carlos
 
 UFSJ - Universidade Federal de São João del-Rei
